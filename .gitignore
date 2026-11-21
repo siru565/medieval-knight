@@ -1,0 +1,6 @@
+# Blender 자동 백업
+*.blend1
+*.blend2
+
+# GIF 렌더용 중간 프레임 (Knight.blend에서 다시 렌더 가능)
+walk_frames/
